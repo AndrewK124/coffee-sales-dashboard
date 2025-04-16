@@ -70,3 +70,6 @@ The dashboard includes:
 - Slicers for dynamic filtering
 - A timeline to select specific time ranges
 - Clean, visual storytelling for business insights
+
+------
+This project was based off of a guided project from YouTuber & Data Analyst: [Mo Chen](https://www.youtube.com/watch?v=m13o5aqeCbM&t=3112s)
