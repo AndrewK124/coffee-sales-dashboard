@@ -15,7 +15,7 @@ From these sheets, I created a dataset called CoffeeSales which aggregates custo
 -----
 
 ## Dashboard
-![image](https://github.com/user-attachments/assets/06381e49-8f5f-4e9c-9eb6-b4a56d31a93b)
+![image](https://github.com/user-attachments/assets/682ac4d6-7c84-4f23-9e75-4672e7ca06d8)
 
 -----
 
