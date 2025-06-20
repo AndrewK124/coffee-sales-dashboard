@@ -14,6 +14,11 @@ From these sheets, I created a dataset called CoffeeSales which aggregates custo
 
 -----
 
+## Dashboard
+![image](https://github.com/user-attachments/assets/06381e49-8f5f-4e9c-9eb6-b4a56d31a93b)
+
+-----
+
 ## Data Structure 
 
 ### Customers Sheet Columns: 
